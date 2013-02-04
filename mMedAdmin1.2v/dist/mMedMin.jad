@@ -1,6 +1,6 @@
 MIDlet-1: MedAdmin,,org.ms.admin.MedAdminList
 MIDlet-Jar-Size: 48619
-MIDlet-Jar-URL: mMedAdmin.jar
+MIDlet-Jar-URL: mMedMin.jar
 MIDlet-Name: MedAdmin
 MIDlet-Vendor: Vendor
 MIDlet-Version: 1.1

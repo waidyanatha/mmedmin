@@ -1,8 +1,8 @@
 MIDlet-1: MedAdmin,,org.ms.admin.MedAdminList
-MIDlet-Jar-Size: 48624
-MIDlet-Jar-URL: mS-cube.jar
-MIDlet-Name: mS-cube
+MIDlet-Jar-Size: 48619
+MIDlet-Jar-URL: mMedAdmin.jar
+MIDlet-Name: MedAdmin
 MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
+MIDlet-Version: 1.1
 MicroEdition-Configuration: CLDC-1.1
 MicroEdition-Profile: MIDP-2.0
